@@ -1,2 +1,2 @@
-# nome_do_usuario.github.io
+# http://nome_do_usuario.github.io
 site desenvolvimento web JD
